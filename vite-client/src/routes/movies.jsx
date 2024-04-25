@@ -43,10 +43,13 @@ const Title = styled.h1`
 `;
 
 const Loading = styled.div`
-  font-size: 18px;
+  color: white;
+  height: 100vh;
+  background-color: black;
+  /* font-size: 18px;
   opacity: 0.5;
   font-weight: 500;
-  margin-top: 10px;
+  margin-top: 10px; */
 `;
 
 const MoviesGrid = styled.div`
